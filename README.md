@@ -33,7 +33,7 @@ Few useful commands :
 terraform workspace list
 ```
 
-Get & adap terraform file (*.tf) on repository and do follow actions
+Get & adapt terraform file (*.tf) on repository and do follow actions
 
 ```{r, engine='bash', count_lines}
 terraform plan
